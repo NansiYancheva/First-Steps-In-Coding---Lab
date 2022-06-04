@@ -1,0 +1,14 @@
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\bin\Debug\net6.0\08. PetShop.exe
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\bin\Debug\net6.0\08. PetShop.deps.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\bin\Debug\net6.0\08. PetShop.runtimeconfig.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\bin\Debug\net6.0\08. PetShop.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\bin\Debug\net6.0\ref\08. PetShop.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\bin\Debug\net6.0\08. PetShop.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\obj\Debug\net6.0\08. PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\obj\Debug\net6.0\08. PetShop.AssemblyInfoInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\obj\Debug\net6.0\08. PetShop.AssemblyInfo.cs
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\obj\Debug\net6.0\08. PetShop.csproj.CoreCompileInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\obj\Debug\net6.0\08. PetShop.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\obj\Debug\net6.0\ref\08. PetShop.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\obj\Debug\net6.0\08. PetShop.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\PetShop\obj\Debug\net6.0\08. PetShop.genruntimeconfig.cache

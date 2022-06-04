@@ -1,0 +1,15 @@
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\bin\Debug\net6.0\01. Hello SoftUni.exe
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\bin\Debug\net6.0\01. Hello SoftUni.deps.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\bin\Debug\net6.0\01. Hello SoftUni.runtimeconfig.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\bin\Debug\net6.0\01. Hello SoftUni.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\bin\Debug\net6.0\ref\01. Hello SoftUni.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\bin\Debug\net6.0\01. Hello SoftUni.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\obj\Debug\net6.0\01. Hello SoftUni.csproj.AssemblyReference.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\obj\Debug\net6.0\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\obj\Debug\net6.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\obj\Debug\net6.0\01. Hello SoftUni.AssemblyInfo.cs
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\obj\Debug\net6.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\obj\Debug\net6.0\01. Hello SoftUni.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\obj\Debug\net6.0\ref\01. Hello SoftUni.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\obj\Debug\net6.0\01. Hello SoftUni.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Lectures\obj\Debug\net6.0\01. Hello SoftUni.genruntimeconfig.cache

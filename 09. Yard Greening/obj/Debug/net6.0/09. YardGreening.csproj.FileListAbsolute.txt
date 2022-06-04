@@ -1,0 +1,14 @@
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\bin\Debug\net6.0\09. YardGreening.exe
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\bin\Debug\net6.0\09. YardGreening.deps.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\bin\Debug\net6.0\09. YardGreening.runtimeconfig.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\bin\Debug\net6.0\09. YardGreening.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\bin\Debug\net6.0\ref\09. YardGreening.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\bin\Debug\net6.0\09. YardGreening.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\obj\Debug\net6.0\09. YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\obj\Debug\net6.0\09. YardGreening.AssemblyInfoInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\obj\Debug\net6.0\09. YardGreening.AssemblyInfo.cs
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\obj\Debug\net6.0\09. YardGreening.csproj.CoreCompileInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\obj\Debug\net6.0\09. YardGreening.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\obj\Debug\net6.0\ref\09. YardGreening.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\obj\Debug\net6.0\09. YardGreening.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\YardGreening\obj\Debug\net6.0\09. YardGreening.genruntimeconfig.cache

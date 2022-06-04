@@ -1,0 +1,15 @@
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\bin\Debug\net6.0\02. Num1To10.exe
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\bin\Debug\net6.0\02. Num1To10.deps.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\bin\Debug\net6.0\02. Num1To10.runtimeconfig.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\bin\Debug\net6.0\02. Num1To10.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\bin\Debug\net6.0\ref\02. Num1To10.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\bin\Debug\net6.0\02. Num1To10.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\obj\Debug\net6.0\02. Num1To10.csproj.AssemblyReference.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\obj\Debug\net6.0\02. Num1To10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\obj\Debug\net6.0\02. Num1To10.AssemblyInfoInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\obj\Debug\net6.0\02. Num1To10.AssemblyInfo.cs
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\obj\Debug\net6.0\02. Num1To10.csproj.CoreCompileInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\obj\Debug\net6.0\02. Num1To10.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\obj\Debug\net6.0\ref\02. Num1To10.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\obj\Debug\net6.0\02. Num1To10.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\Num1To10\obj\Debug\net6.0\02. Num1To10.genruntimeconfig.cache

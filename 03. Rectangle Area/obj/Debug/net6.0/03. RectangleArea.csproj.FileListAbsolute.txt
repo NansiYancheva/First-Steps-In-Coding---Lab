@@ -1,0 +1,15 @@
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. RectangleArea.exe
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. RectangleArea.deps.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. RectangleArea.runtimeconfig.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. RectangleArea.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\ref\03. RectangleArea.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\bin\Debug\net6.0\03. RectangleArea.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. RectangleArea.csproj.AssemblyReference.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. RectangleArea.AssemblyInfoInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. RectangleArea.AssemblyInfo.cs
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. RectangleArea.csproj.CoreCompileInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. RectangleArea.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\ref\03. RectangleArea.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. RectangleArea.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\03. Rectangle Area\obj\Debug\net6.0\03. RectangleArea.genruntimeconfig.cache

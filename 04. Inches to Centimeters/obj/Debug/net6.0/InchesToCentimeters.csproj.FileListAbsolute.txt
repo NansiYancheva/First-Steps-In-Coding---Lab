@@ -1,0 +1,14 @@
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.exe
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.deps.json
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.runtimeconfig.json
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.dll
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\ref\InchesToCentimeters.dll
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.pdb
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.AssemblyInfo.cs
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.dll
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\ref\InchesToCentimeters.dll
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.pdb
+C:\Visual Studio\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.genruntimeconfig.cache

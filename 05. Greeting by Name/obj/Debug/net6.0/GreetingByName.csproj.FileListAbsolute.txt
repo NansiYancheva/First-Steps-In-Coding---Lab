@@ -1,0 +1,14 @@
+C:\Visual Studio\HelloSoftUni\GreetingByName\bin\Debug\net6.0\GreetingByName.exe
+C:\Visual Studio\HelloSoftUni\GreetingByName\bin\Debug\net6.0\GreetingByName.deps.json
+C:\Visual Studio\HelloSoftUni\GreetingByName\bin\Debug\net6.0\GreetingByName.runtimeconfig.json
+C:\Visual Studio\HelloSoftUni\GreetingByName\bin\Debug\net6.0\GreetingByName.dll
+C:\Visual Studio\HelloSoftUni\GreetingByName\bin\Debug\net6.0\ref\GreetingByName.dll
+C:\Visual Studio\HelloSoftUni\GreetingByName\bin\Debug\net6.0\GreetingByName.pdb
+C:\Visual Studio\HelloSoftUni\GreetingByName\obj\Debug\net6.0\GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\HelloSoftUni\GreetingByName\obj\Debug\net6.0\GreetingByName.AssemblyInfoInputs.cache
+C:\Visual Studio\HelloSoftUni\GreetingByName\obj\Debug\net6.0\GreetingByName.AssemblyInfo.cs
+C:\Visual Studio\HelloSoftUni\GreetingByName\obj\Debug\net6.0\GreetingByName.csproj.CoreCompileInputs.cache
+C:\Visual Studio\HelloSoftUni\GreetingByName\obj\Debug\net6.0\GreetingByName.dll
+C:\Visual Studio\HelloSoftUni\GreetingByName\obj\Debug\net6.0\ref\GreetingByName.dll
+C:\Visual Studio\HelloSoftUni\GreetingByName\obj\Debug\net6.0\GreetingByName.pdb
+C:\Visual Studio\HelloSoftUni\GreetingByName\obj\Debug\net6.0\GreetingByName.genruntimeconfig.cache

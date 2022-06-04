@@ -1,0 +1,14 @@
+C:\Visual Studio\HelloSoftUni\ConcatenateData\obj\Debug\net6.0\ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\HelloSoftUni\ConcatenateData\obj\Debug\net6.0\ConcatenateData.AssemblyInfoInputs.cache
+C:\Visual Studio\HelloSoftUni\ConcatenateData\obj\Debug\net6.0\ConcatenateData.AssemblyInfo.cs
+C:\Visual Studio\HelloSoftUni\ConcatenateData\obj\Debug\net6.0\ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Visual Studio\HelloSoftUni\ConcatenateData\bin\Debug\net6.0\ConcatenateData.exe
+C:\Visual Studio\HelloSoftUni\ConcatenateData\bin\Debug\net6.0\ConcatenateData.deps.json
+C:\Visual Studio\HelloSoftUni\ConcatenateData\bin\Debug\net6.0\ConcatenateData.runtimeconfig.json
+C:\Visual Studio\HelloSoftUni\ConcatenateData\bin\Debug\net6.0\ConcatenateData.dll
+C:\Visual Studio\HelloSoftUni\ConcatenateData\bin\Debug\net6.0\ref\ConcatenateData.dll
+C:\Visual Studio\HelloSoftUni\ConcatenateData\bin\Debug\net6.0\ConcatenateData.pdb
+C:\Visual Studio\HelloSoftUni\ConcatenateData\obj\Debug\net6.0\ConcatenateData.dll
+C:\Visual Studio\HelloSoftUni\ConcatenateData\obj\Debug\net6.0\ref\ConcatenateData.dll
+C:\Visual Studio\HelloSoftUni\ConcatenateData\obj\Debug\net6.0\ConcatenateData.pdb
+C:\Visual Studio\HelloSoftUni\ConcatenateData\obj\Debug\net6.0\ConcatenateData.genruntimeconfig.cache

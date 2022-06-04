@@ -1,0 +1,15 @@
+C:\Visual Studio\HelloSoftUni\Lectures\bin\Debug\net6.0\Lectures.exe
+C:\Visual Studio\HelloSoftUni\Lectures\bin\Debug\net6.0\Lectures.deps.json
+C:\Visual Studio\HelloSoftUni\Lectures\bin\Debug\net6.0\Lectures.runtimeconfig.json
+C:\Visual Studio\HelloSoftUni\Lectures\bin\Debug\net6.0\Lectures.dll
+C:\Visual Studio\HelloSoftUni\Lectures\bin\Debug\net6.0\ref\Lectures.dll
+C:\Visual Studio\HelloSoftUni\Lectures\bin\Debug\net6.0\Lectures.pdb
+C:\Visual Studio\HelloSoftUni\Lectures\obj\Debug\net6.0\Lectures.csproj.AssemblyReference.cache
+C:\Visual Studio\HelloSoftUni\Lectures\obj\Debug\net6.0\Lectures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\HelloSoftUni\Lectures\obj\Debug\net6.0\Lectures.AssemblyInfoInputs.cache
+C:\Visual Studio\HelloSoftUni\Lectures\obj\Debug\net6.0\Lectures.AssemblyInfo.cs
+C:\Visual Studio\HelloSoftUni\Lectures\obj\Debug\net6.0\Lectures.csproj.CoreCompileInputs.cache
+C:\Visual Studio\HelloSoftUni\Lectures\obj\Debug\net6.0\Lectures.dll
+C:\Visual Studio\HelloSoftUni\Lectures\obj\Debug\net6.0\ref\Lectures.dll
+C:\Visual Studio\HelloSoftUni\Lectures\obj\Debug\net6.0\Lectures.pdb
+C:\Visual Studio\HelloSoftUni\Lectures\obj\Debug\net6.0\Lectures.genruntimeconfig.cache

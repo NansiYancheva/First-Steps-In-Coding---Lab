@@ -1,0 +1,14 @@
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\04. InchesToCentimeters.exe
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\04. InchesToCentimeters.deps.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\04. InchesToCentimeters.runtimeconfig.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\04. InchesToCentimeters.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\ref\04. InchesToCentimeters.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\bin\Debug\net6.0\04. InchesToCentimeters.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\04. InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\04. InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\04. InchesToCentimeters.AssemblyInfo.cs
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\04. InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\04. InchesToCentimeters.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\ref\04. InchesToCentimeters.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\04. InchesToCentimeters.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\InchesToCentimeters\obj\Debug\net6.0\04. InchesToCentimeters.genruntimeconfig.cache

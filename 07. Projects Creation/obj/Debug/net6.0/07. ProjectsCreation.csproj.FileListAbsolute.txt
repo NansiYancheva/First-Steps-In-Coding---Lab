@@ -1,0 +1,14 @@
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\bin\Debug\net6.0\07. ProjectsCreation.exe
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\bin\Debug\net6.0\07. ProjectsCreation.deps.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\bin\Debug\net6.0\07. ProjectsCreation.runtimeconfig.json
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\bin\Debug\net6.0\07. ProjectsCreation.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\bin\Debug\net6.0\ref\07. ProjectsCreation.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\bin\Debug\net6.0\07. ProjectsCreation.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\obj\Debug\net6.0\07. ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\obj\Debug\net6.0\07. ProjectsCreation.AssemblyInfoInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\obj\Debug\net6.0\07. ProjectsCreation.AssemblyInfo.cs
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\obj\Debug\net6.0\07. ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\obj\Debug\net6.0\07. ProjectsCreation.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\obj\Debug\net6.0\ref\07. ProjectsCreation.dll
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\obj\Debug\net6.0\07. ProjectsCreation.pdb
+C:\Visual Studio\basics\OK_First Steps In Coding - Lab\HelloSoftUni\ProjectsCreation\obj\Debug\net6.0\07. ProjectsCreation.genruntimeconfig.cache

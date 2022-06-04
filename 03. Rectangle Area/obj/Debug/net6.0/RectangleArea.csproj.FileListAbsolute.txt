@@ -1,0 +1,14 @@
+C:\Visual Studio\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.exe
+C:\Visual Studio\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.deps.json
+C:\Visual Studio\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.runtimeconfig.json
+C:\Visual Studio\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.dll
+C:\Visual Studio\HelloSoftUni\RectangleArea\bin\Debug\net6.0\ref\RectangleArea.dll
+C:\Visual Studio\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.pdb
+C:\Visual Studio\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.AssemblyInfoInputs.cache
+C:\Visual Studio\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.AssemblyInfo.cs
+C:\Visual Studio\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Visual Studio\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.dll
+C:\Visual Studio\HelloSoftUni\RectangleArea\obj\Debug\net6.0\ref\RectangleArea.dll
+C:\Visual Studio\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.pdb
+C:\Visual Studio\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.genruntimeconfig.cache
